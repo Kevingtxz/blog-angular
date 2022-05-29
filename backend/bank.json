@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Kevin",
+      "message": "Welcome to my blog"
+    },
+    {
+      "id": 2,
+      "name": "Graciane",
+      "message": "This is a cool blog"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "message": "This is my first post"
+    },
+    {
+      "id": 4,
+      "name": "Victor",
+      "message": "Hi, I'm Victor"
+    },
+    {
+      "id": 5,
+      "name": "adgadgagd",
+      "message": "adggda"
+    },
+    {
+      "id": 6,
+      "name": "Ultim",
+      "message": "MSG"
+    }
+  ]
+}
